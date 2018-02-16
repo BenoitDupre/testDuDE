@@ -7,7 +7,7 @@ public class leTest {
 		DE d = new DE();
 //		int resultat = d.lancer();	
 		
-	System.out.println("resultat:" + d.lancer() );
+	System.out.println("resultat:" + d.lancer());
 
 	}
 
